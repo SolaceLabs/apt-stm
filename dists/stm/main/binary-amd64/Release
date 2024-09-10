@@ -1,0 +1,7 @@
+Archive: stable
+Version: 0.0.49
+Component: main
+Origin: SolaceLabs/apt-stm
+Label: Solace CLI tool
+Architecture: amd64
+Description: This is a command line tool to help you get started with Solace PubSub+ Event Broker

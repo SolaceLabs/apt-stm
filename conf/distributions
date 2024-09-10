@@ -1,0 +1,8 @@
+Origin: SolaceLabs/apt-stm
+Codename: stm
+Suite: stable
+Version: 0.0.49
+Label: Solace CLI tool
+Architectures: amd64
+Components: main
+Description: This is a command line tool to help you get started with Solace PubSub+ Event Broker
