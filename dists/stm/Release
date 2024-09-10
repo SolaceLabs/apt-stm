@@ -3,19 +3,19 @@ Label: Solace CLI tool
 Suite: stable
 Codename: stm
 Version: 0.0.49
-Date: Tue, 10 Sep 2024 16:34:48 UTC
+Date: Tue, 10 Sep 2024 19:36:11 UTC
 Architectures: amd64
 Components: main
 Description: This is a command line tool to help you get started with Solace PubSub+ Event Broker
 MD5Sum:
- 81bb820ba4bf9005ab9e600dd1cfda8d 488 main/binary-amd64/Packages
- 441051635190e97a12283a7e605037f3 369 main/binary-amd64/Packages.gz
+ b5460b375d0e3a20866946cfff7b6b01 492 main/binary-amd64/Packages
+ 4905401f1513536139c8b6c569359b63 371 main/binary-amd64/Packages.gz
  fcbc4d18fd460c4a0a72befb89327794 216 main/binary-amd64/Release
 SHA1:
- d52b2ca83f9967cfed472edacee63293720e7f1a 488 main/binary-amd64/Packages
- f20b91d00c85feaff5b337a7c91a1c1b4409010e 369 main/binary-amd64/Packages.gz
+ 4f4495c21ca3ba5fc7f0bebc13e759c9af593d94 492 main/binary-amd64/Packages
+ e62e2f63172bc319d850d2b3979cf1484d955520 371 main/binary-amd64/Packages.gz
  764edc09a07b6d0d470853ff1f7ac4b253a8335d 216 main/binary-amd64/Release
 SHA256:
- 1c3d1b71a2b204ecf9aed8cd7cece7769a00bc819c01f84d459537b7a41897c7 488 main/binary-amd64/Packages
- cf53b5fd98da6cbcdef6a01c92d3e213fde2ea9ddc02a19a091cb21da5f70ffd 369 main/binary-amd64/Packages.gz
+ 6fd339a8eac4f9294e6cb4d5ddd0fa2e3279caf82003f4eed0113ed42c9b2db0 492 main/binary-amd64/Packages
+ 1aa79a0fdb2471699f23b3f13e7515732927b17c7b487c2f0328c162cdd1f609 371 main/binary-amd64/Packages.gz
  06e19a8019749e78c7331f8532687171e74f7926f46dc50728007b779be6a64f 216 main/binary-amd64/Release
