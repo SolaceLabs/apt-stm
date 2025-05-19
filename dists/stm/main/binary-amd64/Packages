@@ -1,15 +1,15 @@
 Package: stm
-Version: 0.0.78
+Version: 0.0.79
 Maintainer: SolaceCommunity <community@solace.dev>
 Depends: libc6
 Architecture: amd64
 Homepage: http://solace.dev
 Priority: 0
 Section: utils
-Filename: pool/main/s/stm/stm_0.0.78_amd64.deb
-Size: 34263242
-SHA256: d0435859416a9ed9443d123270d94db1a0df5020e7de2c93760404d46928528e
-SHA1: 4ce5f6ec7611a27b7dd66465034b5887ad584485
-MD5sum: 0931286a8009e8a2bf851df708c8e39c
+Filename: pool/main/s/stm/stm_0.0.79_amd64.deb
+Size: 34264942
+SHA256: 7707fe00653bdfbdb30f9ee32e426a227338a342820d127bef4bfcc190802771
+SHA1: 3bb0e881990d10f8dafb079047cfe04e8126b7f5
+MD5sum: cab9fab0b9da0648acb609c3fe0675a2
 Description: This is a command line tool to help you get started with Solace PubSub+ Event Broker
 
